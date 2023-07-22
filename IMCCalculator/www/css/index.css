@@ -1,0 +1,20 @@
+input, label
+{
+    display: block;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+input[type=button]
+{
+    height: 40px;
+    padding: 5px;
+}
+h1, label, input
+{
+    text-align: center;
+}
+fieldset
+{
+    margin: 10px 0px;
+}
